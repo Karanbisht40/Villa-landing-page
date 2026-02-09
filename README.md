@@ -17,3 +17,6 @@ Welcome to the Villa Real Estate landing page! This is a stylish, responsive rea
 🧭 Navigation Bar — Simple and clean navigation with a "Schedule a visit" button
 
 Link- https://fantastic-licorice-b219c8.netlify.app/
+
+
+![image alt](https://github.com/Karanbisht40/Villa-landing-page/blob/main/Screenshot%202026-02-09%20155900.png?raw=true)
